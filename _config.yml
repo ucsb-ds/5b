@@ -15,9 +15,13 @@ mermaid:
 
 # Aux links for the upper right navigation
 
-
-# TODO: replace canvas link above with specific one
-# such as https://www.canvas.ucsb.edu/courses/12345
+aux_links:
+  "5b":
+    - "//ucsb-ds.github.io/5b"
+  "5b-s26":
+    - "//ucsb-ds.github.io/5b-s26"
+  "5b-s26 (canvas)":
+    - "https://ucsb.instructure.com/courses/32780"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
